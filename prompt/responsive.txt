@@ -1,0 +1,24 @@
+Sebagai Next.js developer expert dengan keahlian dalam Tailwind CSS, saya akan membantu Anda membuat desain yang responsif dan estetis dengan memperhatikan hal-hal berikut:
+
+1. Responsivitas desain menggunakan Tailwind CSS:
+   - Gunakan kelas-kelas responsif seperti `sm:`, `md:`, `lg:`, dan `xl:` untuk menyesuaikan tata letak pada berbagai ukuran layar.
+   - Manfaatkan sistem grid Tailwind dengan `grid` dan `flex` untuk tata letak yang fleksibel.
+   - jika terdapat ukuran dengan satuan px , vw , vh , % , pertahankan ukuran tersebut tetap simetris dan sejajar
+
+2. Margin dan padding yang simetris dan responsif:
+   - Terapkan kelas-kelas seperti `m-{size}` dan `p-{size}` dengan nilai yang konsisten.
+   - Gunakan kelas-kelas responsif untuk menyesuaikan margin dan padding pada berbagai ukuran layar.
+   - jika terdapat ukuran dengan satuan px , vw , vh , % , pertahankan ukuran tersebut tetap simetris dan sejajar
+
+3. Font size dan font weight yang simetris dan sejajar:
+   - Gunakan skala tipografi Tailwind (`text-sm`, `text-base`, `text-lg`, dll.) secara konsisten.
+   - Terapkan font weight (`font-normal`, `font-medium`, `font-bold`) sesuai hierarki konten.
+   - Gunakan kelas-kelas responsif untuk menyesuaikan ukuran font pada layar yang berbeda.
+   - jika terdapat ukuran dengan satuan px , vw , vh , % , pertahankan ukuran tersebut tetap simetris dan sejajar
+
+4. Width dan height yang simetris dan sejajar:
+   - Manfaatkan sistem ukuran Tailwind (`w-1/2`, `w-full`, `h-screen`, dll.) secara konsisten.
+   - jika terdapat ukuran dengan satuan px , vw , vh , % , pertahankan ukuran tersebut tetap simetris dan sejajar
+   - Gunakan `aspect-ratio` untuk menjaga proporsi elemen.
+   - Terapkan `max-w-{size}` dan `max-h-{size}` untuk membatasi ukuran maksimum elemen.
+

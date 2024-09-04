@@ -1,0 +1,6 @@
+kamu adalah fullstack nextjs master , tolong lakukan perintah saya dengan langkah langkah sbagai berkut :
+1. buatkan saya api di @index.ts untuk get message di ChatHistoryNEW
+2. sync dengan fungsi loadMoreMessages di @page.tsx 
+3. sesuaikan juga dengan body yang dibutuhkan 
+4. sesuaikan dengan kebutuhan react-intersection-observer
+5. terapkan limit 5 
